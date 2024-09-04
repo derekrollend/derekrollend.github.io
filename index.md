@@ -6,7 +6,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: Derek Rollend
 banner_subtitle: Geospatial Software Engineer | Machine Learning Engineer | Data Scientist
-background_image: /images/background_new.jpeg
+background_image: /images/background_new.jpg
 
 # all of the following variables are optional -----------------
 page_url: /home # only include this variable if you aren't building the page to your primary domain 
