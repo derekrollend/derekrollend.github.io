@@ -5,11 +5,11 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Derek Rollend
-banner_subtitle: a website for Derek Rollend
-background_image: /images/background.jpeg
+banner_subtitle: Geospatial Software Engineer | Machine Learning Engineer | Data Scientist
+background_image: /images/background_new.jpeg
 
 # all of the following variables are optional -----------------
-page_url: /hello # only include this variable if you aren't building the page to your primary domain 
+page_url: /home # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
 favicon: /assets/ico/favicon.ico
@@ -34,22 +34,28 @@ portfolio_description: you can include a portfolio showcasing your work and orga
 
 # By declaring these variables, you can include a CTA section.
 cta: connect # the heading for your CTA section
-cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
-cta_button: mailto:saragong@usc.edu # a link to an external website or to media
+cta_description: Please reach out if you'd like to learn more about my work. # a description to be desplayed below the heading and above the content
+cta_button: mailto:derek.rollend@gmail.com # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **hello**?  
+# About Me
 
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
-  
-**hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
-development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
-who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
-  
+I’m Derek Rollend, a geospatial software engineer and data scientist specializing in building robust, scalable systems for remote sensing and machine learning applications. With over a decade of experience, I’ve led high-impact projects across a variety of industries, from environmental monitoring to post-disaster humanitarian assistance, utilizing cutting-edge computer vision and data science techniques.
 
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
+I’m passionate about transforming prototype algorithms into production-grade tools, having collaborated extensively with data scientists and engineers to build pipelines that scale efficiently and deliver results in real-time. At [Regrow Ag](https://www.regrow.ag), I spearheaded the development of an online data pipeline capable of rapidly analyzing agricultural practices across multiple years, cutting down processing time from weeks to seconds. My work at [Climate TRACE](https://www.climatetrace.org) involved estimating road transportation emissions for 500 global cities using machine learning on geospatial data, culminating in a best paper award at the [CVPR EarthVision Workshop](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/papers/Mukherjee_Towards_Indirect_Top-Down_Road_Transport_Emissions_Estimation_CVPRW_2021_paper.pdf).
 
+<!-- # Featured Projects
 
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
+- **Road Transportation Emissions Estimation**  
+  A machine learning-based project estimating global city transportation emissions. Check out our [CVPR 2021 EarthVision paper](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/papers/Mukherjee_Towards_Indirect_Top-Down_Road_Transport_Emissions_Estimation_CVPRW_2021_paper.pdf).
+
+- **Predicting Cholera Outbreaks Post-Hurricane**  
+  Developed a remote sensing approach that significantly improved predictive accuracy for waterborne disease risk. View the research [here](https://www.mdpi.com/2225-1154/10/4/48).
+
+- **NO2 Trace Gas Measurement**  
+  Machine learning algorithms reduced errors and runtime in hyperspectral trace gas measurements for environmental science. Learn more from the [AMS conference presentation](https://ams.confex.com/ams/102ANNUAL/meetingapp.cgi/Paper/396126).
+
+Feel free to explore my [GitHub](https://github.com/derekrollend) for more technical insights into my work or connect with me on [LinkedIn](https://www.linkedin.com/in/derekrollend). -->
+
