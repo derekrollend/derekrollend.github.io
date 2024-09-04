@@ -1,10 +1,10 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: Derek Rollend
+author: Derek Rollend
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
+  A website for Derek Rollend
 baseurl: ""
 
 plugins:
