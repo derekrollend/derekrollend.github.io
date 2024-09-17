@@ -28,7 +28,7 @@ linkedin: derekrollend # the part after ("https://www.linkedin.com/in/...")
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
 portfolio: work # the heading for your portfolio and title of your YAML file
-portfolio_description: you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. # a description to be desplayed below the heading and above the content
+portfolio_description: Here are some of the projects I've worked on # a description to be desplayed below the heading and above the content
 
 # optional CTA section --------------------------------------------------
 
@@ -41,9 +41,11 @@ cta_button_label: contact # the label on the button
 ---			
 [//]: # (write a bit about yourself here)
 
-I’m a geospatial software engineer and data scientist specializing in building robust, scalable systems for remote sensing and machine learning applications. With over a decade of experience, I’ve led high-impact projects across a variety of industries, from environmental monitoring to post-disaster humanitarian assistance, utilizing cutting-edge computer vision and data science techniques.
+I’m a geospatial software engineer and data scientist specializing in building robust, scalable systems for remote sensing and machine learning applications. With over a decade of experience, I’ve led high-impact projects across a variety of industries, from environmental monitoring to post-disaster humanitarian assistance, utilizing machine learning and computer vision techniques.
 
-I’m passionate about transforming prototype algorithms into production-grade tools, having collaborated extensively with data scientists and engineers to build pipelines that scale efficiently and deliver results in real-time. At [Regrow Ag](https://www.regrow.ag), I spearheaded the development of an online data pipeline capable of rapidly analyzing agricultural practices across multiple years, cutting down processing time from weeks to seconds. My work at [Climate TRACE](https://www.climatetrace.org) involved estimating road transportation emissions for 500 global cities using machine learning on geospatial data, culminating in a best paper award at the [CVPR EarthVision Workshop](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/papers/Mukherjee_Towards_Indirect_Top-Down_Road_Transport_Emissions_Estimation_CVPRW_2021_paper.pdf).
+I’m passionate about transforming prototype algorithms into production-grade systems, having collaborated extensively with data scientists and engineers to build pipelines that scale efficiently and deliver accurate results. See below for some of the projects I've worked on. 
+
+<!-- At [Regrow Ag](https://www.regrow.ag), I spearheaded the development of an online data pipeline capable of rapidly analyzing agricultural practices across multiple years, cutting down processing time from weeks to seconds. My work on [Climate TRACE](https://www.climatetrace.org) involved estimating road transportation emissions for 500 global cities using machine learning on geospatial data, culminating in a best paper award at the [CVPR EarthVision Workshop](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/papers/Mukherjee_Towards_Indirect_Top-Down_Road_Transport_Emissions_Estimation_CVPRW_2021_paper.pdf). -->
 
 <!-- # Featured Projects
 
