@@ -4,10 +4,10 @@
 work:
   - category: Regrow Ag
     items:
-      - item: example.html
-        image: /images/NYC1.jpg # optionally, include the file path for an image for each item
-      - item: example.html
-        image: /images/NYC2.jpg
+      - item: regrow_1.html
+        image: /images/regrow_1.webp 
+      - item: regrow_2.html
+        image: /images/regrow_2.webp
   - category: The Johns Hopkins University Applied Physics Laboratory
     items:
       - item: example.html
