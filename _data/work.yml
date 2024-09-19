@@ -10,14 +10,14 @@ work:
         image: /images/regrow_2.webp
   - category: The Johns Hopkins University Applied Physics Laboratory
     items:
-      - item: example.html
-        image: /images/NYC1.jpg
-      - item: example.html
-        image: /images/NYC2.jpg
+      - item: apl_1.html
+        image: /images/aadt_map.jpg
+      - item: apl_2.html
+        image: /images/obj_detection.webp
       
-  - category: TrackMan
-    items:
-      - item: example.html
-        image: /images/NYC1.jpg
-      - item: example.html
-        image: /images/NYC2.jpg
+  # - category: TrackMan
+  #   items:
+  #     - item: example.html
+  #       image: /images/NYC1.jpg
+  #     - item: example.html
+  #       image: /images/NYC2.jpg
