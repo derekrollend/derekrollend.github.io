@@ -118,12 +118,12 @@ custom styles adapted from Twenty by HTML5 Up
 	}
 
 	header.major {
-		padding-bottom: 2em;
+		padding-bottom: 1em;
 	}
 
 	header.special {
-		margin-bottom: 5em;
-		padding-top: 7em;
+		margin-bottom: 4em;
+		padding-top: 3em;
 		position: relative;
 		text-align: center;
 	}
@@ -486,8 +486,8 @@ custom styles adapted from Twenty by HTML5 Up
 /* Wrapper */
 
 	.wrapper {
-		margin-bottom: 5em;
-		padding: 5em;
+		margin-bottom: 3em;
+		padding: 3em;
 	}
 
 		.wrapper.style1 {
