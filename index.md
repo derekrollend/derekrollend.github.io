@@ -9,7 +9,7 @@ banner_subtitle: Geospatial Software Engineer | Machine Learning Engineer | Data
 background_image: /images/background_new.jpg
 
 # all of the following variables are optional -----------------
-page_url: /home # only include this variable if you aren't building the page to your primary domain 
+# page_url: /home # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
 favicon: /assets/ico/earth_again.ico
@@ -45,18 +45,4 @@ I’m a geospatial software engineer and data scientist specializing in building
 
 I’m passionate about transforming prototype algorithms into production-grade systems, having collaborated extensively with data scientists and engineers to build pipelines that scale efficiently and deliver accurate results. See below for some of the projects I've worked on. 
 
-<!-- At [Regrow Ag](https://www.regrow.ag), I spearheaded the development of an online data pipeline capable of rapidly analyzing agricultural practices across multiple years, cutting down processing time from weeks to seconds. My work on [Climate TRACE](https://www.climatetrace.org) involved estimating road transportation emissions for 500 global cities using machine learning on geospatial data, culminating in a best paper award at the [CVPR EarthVision Workshop](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/papers/Mukherjee_Towards_Indirect_Top-Down_Road_Transport_Emissions_Estimation_CVPRW_2021_paper.pdf). -->
-
-<!-- # Featured Projects
-
-- **Road Transportation Emissions Estimation**  
-  A machine learning-based project estimating global city transportation emissions. Check out our [CVPR 2021 EarthVision paper](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/papers/Mukherjee_Towards_Indirect_Top-Down_Road_Transport_Emissions_Estimation_CVPRW_2021_paper.pdf).
-
-- **Predicting Cholera Outbreaks Post-Hurricane**  
-  Developed a remote sensing approach that significantly improved predictive accuracy for waterborne disease risk. View the research [here](https://www.mdpi.com/2225-1154/10/4/48).
-
-- **NO2 Trace Gas Measurement**  
-  Machine learning algorithms reduced errors and runtime in hyperspectral trace gas measurements for environmental science. Learn more from the [AMS conference presentation](https://ams.confex.com/ams/102ANNUAL/meetingapp.cgi/Paper/396126).
-
-Feel free to explore my [GitHub](https://github.com/derekrollend) for more technical insights into my work or connect with me on [LinkedIn](https://www.linkedin.com/in/derekrollend). -->
 
