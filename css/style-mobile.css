@@ -123,7 +123,7 @@
 
 	#banner {
 		/* background-size: 10em, 10em, auto, cover; */
-		background-size: contain;
+		background-size: cover;
 		padding: 6em 0;
 	}
 
