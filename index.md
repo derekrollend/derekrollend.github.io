@@ -37,12 +37,16 @@ cta: connect # the heading for your CTA section
 cta_description: Please reach out if you'd like to learn more about my work. # a description to be desplayed below the heading and above the content
 cta_button: mailto:derek.rollend@gmail.com # a link to an external website or to media
 cta_button_label: contact # the label on the button
+cta_background_image: /images/background_cta.jpg
 
 ---			
 [//]: # (write a bit about yourself here)
 
-I’m a geospatial software engineer and data scientist specializing in building robust, scalable systems for remote sensing and machine learning applications. With over a decade of experience, I’ve led high-impact projects across a variety of industries, from environmental monitoring to post-disaster humanitarian assistance, utilizing machine learning and computer vision techniques.
+<!-- I’m a geospatial software engineer and data scientist specializing in building robust, scalable systems for remote sensing and machine learning applications. With over a decade of experience, I’ve led high-impact projects across a variety of industries, from environmental monitoring to post-disaster humanitarian assistance, utilizing machine learning and computer vision techniques.
 
 I’m passionate about transforming prototype algorithms into production-grade systems, having collaborated extensively with data scientists and engineers to build pipelines that scale efficiently and deliver accurate results. See below for some of the projects I've worked on. 
+ -->
 
+I’m a software engineer and data scientist specializing in building robust, scalable systems for machine learning applications. With over a decade of experience, I’ve led high-impact projects across a variety of industries, from remote sensing for environmental monitoring to real-time computer vision for the visually impaired, utilizing machine learning and computer vision techniques.
 
+I’m passionate about transforming prototype algorithms into production-grade systems, having collaborated extensively with data scientists and engineers to build pipelines that scale efficiently and deliver accurate results. See below for some of the projects I've worked on.
