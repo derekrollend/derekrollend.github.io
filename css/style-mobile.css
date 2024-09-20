@@ -122,7 +122,8 @@
 /* Banner */
 
 	#banner {
-		background-size: 10em, 10em, auto, cover;
+		/* background-size: 10em, 10em, auto, cover; */
+		background-size: contain;
 		padding: 6em 0;
 	}
 
