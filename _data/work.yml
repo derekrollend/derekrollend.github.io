@@ -15,9 +15,9 @@ work:
       - item: apl_2.html
         image: /images/obj_detection_square.webp
       
-  # - category: TrackMan
-  #   items:
-  #     - item: example.html
-  #       image: /images/NYC1.jpg
-  #     - item: example.html
-  #       image: /images/NYC2.jpg
+  - category: TrackMan
+    items:
+      - item: trackman_1.html
+        image: /images/player_tracking.jpg
+      - item: trackman_2.html
+        image: /images/putting.webp
