@@ -13,7 +13,7 @@ work:
       - item: apl_1.html
         image: /images/aadt_map.jpg
       - item: apl_2.html
-        image: /images/obj_detection.webp
+        image: /images/obj_detection_square.webp
       
   # - category: TrackMan
   #   items:
